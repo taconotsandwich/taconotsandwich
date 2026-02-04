@@ -4,7 +4,7 @@ I build games, break things, and occasionally write code that works (Hopefully).
 
 ## What I Do
 
-I spend most of my time making games with Unity and participating in game jams. When I'm not doing that, I'm probably tinkering with tools or working on coursework.
+I spend most of my time making games with Unity and participating in game jams. When I'm not doing that, I'm probably tinkering with tools.
 
 ## Tech Stack
 
